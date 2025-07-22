@@ -1,3 +1,9 @@
-Для рецензента:
-ссылка на скачивание самого приложения и видео работы, если приложение не открывается или возникают ошибки:
+Это бета версия проекта, представляющего собой голосового ассистента, который помогает управлять системными функциями компьютера и использует n-граммы и косинусное сходство для распознавания намерений пользователя, поскольку должен быть помощником для пожилых людей, и в целом людей, не знакомых с компьютером от слова совсем. Ссылка на видео работы и скачивание самой бета версии проекта ниже ╰(*°▽°*)╯
+
+This is a beta version of a project that is a voice assistant that helps manage the system functions of a computer and uses n-grams and cosine similarity to recognize user intentions, since it should be an assistant for older people, and in general people who are not familiar with computers at all. Link to the video of the work and download of the beta version of the project below╰(*°▽°*)╯
+
 https://drive.google.com/drive/folders/1aIka79NEjJMYxtUcbWolhlMCUzr9p45K?usp=sharing
+
+Это далеко не финальная версия, в будущем проект планируется докрутить до такой прям мега масштабной ии для управления устройством. При том, не только компьютером, но и другими устройствами и операционными системами. На данный момент работает конкретно с Windows 10/11. Буду рада комментариям, критике и идеям, что можно было бы добавить!!!
+
+This is far from the final version, in the future the project is planned to be tweaked to such a mega-scale AI for controlling the device. Moreover, not only a computer, but also other devices and operating systems. At the moment it works specifically with Windows 10/11. I will be glad to comments, criticism and ideas on what could be added!!!
